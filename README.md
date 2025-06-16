@@ -7,3 +7,5 @@ Explorar a demonstração apresentada no conteúdo prático e fazer um resumo do
 # Orientações para Entrega
 - Criar um repositório no GitHub.
 - Enviar em "Entregar Projeto" o link do repositório no GitHub.
+# Observação
+Não foi possível realizar o desafio devido ao fato de não ter uma conta na Microsoft 365. No futuro será realizado o Desafio de Projeto proposto.
